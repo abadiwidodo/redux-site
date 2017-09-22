@@ -1,0 +1,6 @@
+.idea/
+app.log
+coverage/
+node_modules/
+shippable
+npm-debug.log
